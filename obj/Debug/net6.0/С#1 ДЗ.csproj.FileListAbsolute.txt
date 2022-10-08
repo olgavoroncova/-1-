@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#1 ДЗ\bin\Debug\net6.0\С#1 ДЗ.exe
+C:\Users\User\Desktop\С#1 ДЗ\bin\Debug\net6.0\С#1 ДЗ.deps.json
+C:\Users\User\Desktop\С#1 ДЗ\bin\Debug\net6.0\С#1 ДЗ.runtimeconfig.json
+C:\Users\User\Desktop\С#1 ДЗ\bin\Debug\net6.0\С#1 ДЗ.dll
+C:\Users\User\Desktop\С#1 ДЗ\bin\Debug\net6.0\С#1 ДЗ.pdb
+C:\Users\User\Desktop\С#1 ДЗ\obj\Debug\net6.0\С#1 ДЗ.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#1 ДЗ\obj\Debug\net6.0\С#1 ДЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#1 ДЗ\obj\Debug\net6.0\С#1 ДЗ.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#1 ДЗ\obj\Debug\net6.0\С#1 ДЗ.AssemblyInfo.cs
+C:\Users\User\Desktop\С#1 ДЗ\obj\Debug\net6.0\С#1 ДЗ.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#1 ДЗ\obj\Debug\net6.0\С#1 ДЗ.dll
+C:\Users\User\Desktop\С#1 ДЗ\obj\Debug\net6.0\refint\С#1 ДЗ.dll
+C:\Users\User\Desktop\С#1 ДЗ\obj\Debug\net6.0\С#1 ДЗ.pdb
+C:\Users\User\Desktop\С#1 ДЗ\obj\Debug\net6.0\С#1 ДЗ.genruntimeconfig.cache
+C:\Users\User\Desktop\С#1 ДЗ\obj\Debug\net6.0\ref\С#1 ДЗ.dll
